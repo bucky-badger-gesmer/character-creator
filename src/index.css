@@ -10,7 +10,7 @@ body {
 }
 
 footer a {
-  color: white;
+  color: inherit;
 }
 
 *,
